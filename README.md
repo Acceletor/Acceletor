@@ -1,6 +1,6 @@
 Hi! My name is Karintorn Suebthawilkul
 ===============================================================================================================================================
-
+* Full-stack developer
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [kkarintornn.sueb@gmail.com](mailto:kkarintornn.sueb@gmail.com)
 
@@ -15,4 +15,13 @@ Hi! My name is Karintorn Suebthawilkul
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+## My project
+The image is clickable and will guide you to the specific project.
+
+<details>
+  <summary><b>ExerLogix</b></summary>
+    ExerLogix assist you in tracking and managing your weight and your activity
+  <a href="" ><img src="https://github.com/Acceletor/ExerLogix/blob/main/ExerLogix/image/1.png?raw=true"></a>
+
 
