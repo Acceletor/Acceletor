@@ -22,6 +22,6 @@ The image is clickable and will guide you to the specific project.
 <details>
   <summary><b>ExerLogix</b></summary>
     ExerLogix assist you in tracking and managing your weight and your activity
-  <a href="" ><img src="https://github.com/Acceletor/ExerLogix/blob/main/ExerLogix/image/1.png?raw=true"></a>
+  <a href="" ><img src="https://github.com/Acceletor/ExerLogix/blob/main/image/1.png?raw=true"></a>
 
 
