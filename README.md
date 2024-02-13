@@ -27,7 +27,8 @@ The image is clickable and will guide you to the specific project.
   
 <details>
   <summary><b>Calculator</b></summary>
-    Basic calculator with HTML, CSS, JavaScript
+    Basic calculator with HTML, CSS, JavaScript.
+  
   <a href="https://acceletor.github.io/calculator/" ><img src="https://github.com/Acceletor/calculator/blob/main/img/img1.png"></a>
 </details>
  
