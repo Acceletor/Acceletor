@@ -1,7 +1,6 @@
 Hi! My name is Karintorn Suebthawilkul
 ===============================================================================================================================================
 
-* 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [kkarintornn.sueb@gmail.com](mailto:kkarintornn.sueb@gmail.com)
 
 ### Skills
