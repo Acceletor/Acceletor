@@ -23,5 +23,13 @@ The image is clickable and will guide you to the specific project.
   <summary><b>ExerLogix</b></summary>
     ExerLogix assist you in tracking and managing your weight and your activity
   <a href="" ><img src="https://github.com/Acceletor/ExerLogix/blob/main/image/1.png?raw=true"></a>
+</details>
+  
+<details>
+  <summary><b>Calculator</b></summary>
+    Basic calculator with HTML, CSS, JavaScript
+  <a href="https://acceletor.github.io/calculator/" ><img src="https://github.com/Acceletor/calculator/blob/main/img/img1.png"></a>
+</details>
+ 
 
 
