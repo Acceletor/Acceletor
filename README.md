@@ -8,7 +8,7 @@ Hi! My name is Karintorn Suebthawilkul
 
 <p align="left">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,azure,c,python,vim,flask," /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,python,vim,flask,aws,azure" /></a>
 
 </p>
 
