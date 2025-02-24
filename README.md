@@ -3,7 +3,7 @@ Hi! My name is Karintorn Suebthawilkul
 
 * ✉️  You can contact me at [kkarintornn.sueb@gmail.com](mailto:kkarintornn.sueb@gmail.com)
 
-### Skills
+### Skills Knowledge
 
 
 <p align="left">
